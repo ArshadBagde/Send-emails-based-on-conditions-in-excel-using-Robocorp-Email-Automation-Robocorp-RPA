@@ -1,0 +1,11 @@
+==============================================================================
+Tasks :: Template robot main suite.                                           
+==============================================================================
+Table Keywords Demo                                                   | FAIL |
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x9d in position 16: character maps to <undefined>
+------------------------------------------------------------------------------
+Tasks :: Template robot main suite.                                   | FAIL |
+1 task, 0 passed, 1 failed
+==============================================================================
+Output:  e:\Internshala\1-Xorion Technologies Pvt Ltd., Nagpur\Projects\send mails based on conditions in excel using Robocorp  Email Automation Robocorp\output\output.xml
+Log:     e:\Internshala\1-Xorion Technologies Pvt Ltd., Nagpur\Projects\send mails based on conditions in excel using Robocorp  Email Automation Robocorp\output\log.html
